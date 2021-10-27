@@ -63,7 +63,8 @@ img {
   padding: 15px 20px;
   border-radius: 4px;
   text-decoration: none;
-  border: none
+  border: none;
+  font-size: 15px;
 }
 
 #btn-github:hover {
